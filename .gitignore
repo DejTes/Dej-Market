@@ -1,5 +1,7 @@
 node_modules
 .env
+wireframes
+.DS_Store
 # Logs
 logs
 *.log
