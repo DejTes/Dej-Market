@@ -19,7 +19,7 @@ Live demo [here](https://dej-market.onrender.com/)
 
 <img
   src="Assets/sh1.PNG"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px" />
  
   ### Built With
  * MongoDb
