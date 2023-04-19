@@ -16,9 +16,10 @@ Live demo [here](https://dej-market.onrender.com/)
 
 
 ## Wire frame
+![SC1](./Assets/sh1.png)
 
 <img
-  src="Assets/sh1.PNG"
+  src="./Assets/sh1.PNG"
   style="display: inline-block; margin: 0 auto; max-width: 200px" />
  
   ### Built With
